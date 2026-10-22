@@ -14,3 +14,5 @@ A small data pipeline built with Python and pandas.
 
 ## Tools used
 Python, pandas, GitHub
+
+Next step: learn more about SQL
