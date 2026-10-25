@@ -1,0 +1,8 @@
+id,item,category,price,quantity
+1,pen,stationery,10,5
+2,book,stationery,50,2
+2,book,stationery,50,2
+3,bag,accessories,,1
+4,bottle,accessories,120,
+5,notebook,Stationery,40,4
+6,wallet,accessories,300,1
